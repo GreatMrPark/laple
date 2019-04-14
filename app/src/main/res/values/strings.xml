@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">laple</string>
+    <string name="app_name">LAPLE</string>
+
+    <string name="title_nfc_name">NFC</string>
+    <string name="title_nfc_card_name">NFCCard</string>
+
+    <string name="title_nfc_writer_name">NFC Writer</string>
+    <string name="title_nfc_reader_name">NFC Reader</string>
+
+    <string name="service_name">Lime Planet NFC Card</string>
+    <string name="card_title">LAPLE</string>
 </resources>
